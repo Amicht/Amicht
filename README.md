@@ -1,6 +1,3 @@
-hello world,
+A goal achieved will satisfy you in the current present,
 
-my name is Amit, 
-I`m a junior web developer and musician
-
-your more then welcome to follow my projects!
+but a great process will give you the tools and strength to succeed in the future.
