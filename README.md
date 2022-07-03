@@ -1,3 +1,4 @@
-A goal achieved will satisfy you in the current present,
+“For an idea that does not first seem insane, there is no hope.” - Albert Einstein 
 
-but a great process will give you the tools and strength to succeed in the future.
+Hi world, 
+My name is Amit Licht, fullstack developer and musician.
