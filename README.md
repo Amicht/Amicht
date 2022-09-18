@@ -12,4 +12,3 @@
 
 #### Follow me
 [![Linkedin: Amit Licht](https://img.shields.io/badge/-Amicht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-licht-212a86239/)](https://www.linkedin.com/in/amit-licht-212a86239/)
-[![GitHub Amicht](https://img.shields.io/github/followers/Amicht?label=follow&style=social)](https://github.com/Amicht)
