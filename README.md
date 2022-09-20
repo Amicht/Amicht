@@ -7,7 +7,7 @@
 - 🚀  I'm Amit, a passionate full-stack web developer and musician (bass player 💪).
 - ❤️ My great passion is to challange myself, create new things and continue to grow and learn.
 - 🍕 Can't pass 1 week without pizza....
-- 📖  Currently learning: advanced JavaScript and design patterns.
+- 📖  Currently learning: advanced JavaScript and data structures.
 
 
 #### Follow me
