@@ -4,10 +4,10 @@
 
 ### 😎 About Me
 
-- 🚀  I'm Amit, a passionate full-stack web developer and musician (bass player 💪).
+- 🚀  I'm Amit Licht, a passionate Full-Stack Web Developer and Musician (bass player 💪).
 - ❤️ My great passion is to challange myself, create new things and continue to grow and learn.
 - 🍕 Can't pass 1 week without pizza....
-- 📖  Currently learning: advanced JavaScript and data structures.
+- 📖  Currently working on a fitness-app.
 
 
 #### Follow me
@@ -26,7 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amicht&show_icons=true&locale=en&layout=compact" alt="amicht" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amicht&show_icons=true&locale=en" alt="amicht" /></p>
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amicht&" alt="amicht" /></p>
