@@ -1,13 +1,14 @@
 ## 🧠 “For an idea that does not first seem insane, there is no hope.” - Albert Einstein 
 
-### Hi there 👋
+### 👋 Hi there, 
+### My name is Amit Licht and I am a Full-Stack web developer
 
 ### 😎 About Me
 
-- 🚀  I'm Amit Licht, a passionate Full-Stack Web Developer and Musician (bass player 💪).
 - ❤️ My great passion is to challange myself, create new things and continue to grow and learn.
+- 🚀 I'm a former Musician (bass player 💪).
 - 🍕 Can't pass 1 week without pizza....
-- 📖  Currently working on a fitness-app.
+- 📖  Currently Learning Java and Spring-Boot.
 
 
 #### Follow me
@@ -18,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,typescript,react,angular,nodejs,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,ts,react,angular,nodejs,mongodb,mysql,firebase,heroku,postman" />
   </a>
 </p>
 
