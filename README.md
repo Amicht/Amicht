@@ -3,6 +3,8 @@
 ### 👋 Hi there, 
 ### My name is Amit Licht and I am a Full-Stack web developer
 
+### Check out [my portfolio-site](https://amit-licht-portfolio.onrender.com/)
+
 ### 😎 About Me
 
 - ❤️ My great passion is to challange myself, create new things and continue to grow and learn.
