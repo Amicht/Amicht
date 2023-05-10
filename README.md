@@ -10,7 +10,7 @@
 - ❤️ My great passion is to challange myself, create new things and continue to grow and learn.
 - 🚀 I'm a former Musician (bass player 💪).
 - 🍕 Can't pass 1 week without pizza....
-- 📖  Currently Learning Java and Spring-Boot.
+- 📖  Currently Learning Machine learning and Figma.
 
 
 #### Follow me
