@@ -1,9 +1,10 @@
-## 🧠 “For an idea that does not first seem insane, there is no hope.” - Albert Einstein 
+🧠 “For an idea that does not first seem insane, there is no hope.” - Albert Einstein 
 
-### 👋 Hi there, 
-### My name is Amit Licht and I am a Full-Stack web developer
+👋 Hi there, 
+My name is Amit Licht and I am a Full-Stack web developer
 
-### Check out [my portfolio-site](https://amit-licht-portfolio.onrender.com/)
+
+Check out [my portfolio-site](https://amit-licht-portfolio.onrender.com/)
 
 ### 😎 About Me
 
@@ -26,10 +27,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amicht&show_icons=true&locale=en&layout=compact" alt="amicht" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amicht&show_icons=true&locale=en&layout=compact" alt="amicht" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amicht&show_icons=true&locale=en" alt="amicht" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amicht&" alt="amicht" /></p>
-<br><br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amicht&show_icons=true&locale=en" alt="amicht" /></p>
